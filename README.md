@@ -20,7 +20,7 @@ This plugin uses [Kint](https://github.com/kint-php/kint) to explore the values,
 5. Go to Plugins and activate the "Term Hierarchical Search Testing Sandbox" plugin.
 6. In the bootstrap file, [specify the meta key](https://github.com/hellofromtonya/term-hierarchical-search-sandbox/blob/master/bootstrap.php#L43) that you want to find.
 
-The raw SQL that I used to test within Sequel Pro is [located here])(https://github.com/hellofromtonya/term-hierarchical-search-sandbox/blob/master/assets/raw.sql).
+The raw SQL that I used to test within Sequel Pro is [located here](https://github.com/hellofromtonya/term-hierarchical-search-sandbox/blob/master/assets/raw.sql).
 
 ## Video Instruction
 
